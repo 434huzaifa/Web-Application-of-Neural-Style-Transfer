@@ -2,7 +2,7 @@
 This is the project of our AI course.
 
 # Used component
--Django
--bootstrap
--tensorflow
+ - Django
+ - bootstrap
+ - tensorflow
 
