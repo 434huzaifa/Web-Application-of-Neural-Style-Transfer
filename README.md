@@ -1,5 +1,5 @@
 # Web-Application-of-Neural-Style-Transfer
-This is the project of our AI course.
+This project explores methods for artistic style transfer based on convolutional neural networks.
 
 # Used component
  - Django
